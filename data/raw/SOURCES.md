@@ -4,7 +4,7 @@ Official Lehrpläne, Gymnasium Sachsen. Download page: https://www.schulportal.s
 
 | File | Fach | Schulart | Version | URL | Downloaded on |
 |---|---|---|---|---|---|
-| GY_MA.pdf | Mathematik | Gymnasium | 2004/2009/2011/2013/2019/2021 | https://www.schulportal.sachsen.de/lplandb/lehrplan/file/461/SPos4aG4oIhjKYDcHVW8 | |
+| GY_MA.pdf | Mathematik | Gymnasium | 2004/2009/2011/2013/2019/2021 (file lp_gy_mathematik_2021.pdf) | https://www.schulportal.sachsen.de/lplandb/ | 2026-11-27 |
 | | | | | | |
 
 For every PDF there is a `.txt` copy made with `pdftotext -layout`.
